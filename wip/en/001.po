@@ -1,0 +1,324 @@
+# 
+# Translators:
+# Inga Pogosyan, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Inga Pogosyan, 2023\n"
+"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "101a65344a974ad79787d1f3648cd827"
+msgid "༄༅། ། མ་ ཧཱ་ གུ་རུ་ གསོལ་འདེབས ། །"
+msgstr "Mahaguru Supplication."
+
+msgctxt "9fb2aa5d0b2a4feab83a4e872dcca2c7"
+msgid "ན་མོ་ གུ་རུ་␣༔"
+msgstr "Namo Guru."
+
+msgctxt "fe9805022aab4f728f0ce67375008302"
+msgid ""
+"སློབ་དཔོན་ ཆེན་པོ་ པདྨ་ འབྱུང་གནས་ ལྷོ་ནུབ་ སྲིན་པོ་␣འི་ ཡུལ་ དུ་ "
+"གཤེགས་པ་␣འི་ དུས་␣༔  མང་ཡུལ་ གུང་ ཐང་ལ་ ཐོག་ ཏུ་ ཡེ་ཤེས་ མཚོ་ རྒྱལ་ གྱིས་ "
+"ཕྱག་ དང་ བསྐོར་བ་ བྱས་␣༔  གུ་རུ་␣འི་ ཞབས་ སྤྱི་བོ་␣ར་ བླངས་ ནས་ སྨོན་ལམ་ "
+"འདི་ལྟར་ བཏབ་པ་␣༔"
+msgstr ""
+"At the time when the great master Padmasambhava was leaving Tibet for the "
+"south-west, the land of the rakshasas, at the top of the Gungthang Pass in "
+"Mangyul, Yeshe Tsogyal prostrated before him and circumambulated. She took "
+"the guru's feet and placed them on the crown of her head, and then planted "
+"an aspiration this way:"
+
+msgctxt "fd27f7da562b489fb7fdb87f4874a8bc"
+msgid "མ་ ཧཱ་ གུ་རུ་␣འི་ བྱིན་རླབས་ ཀྱིས་␣༔"
+msgstr "By the blessings of the Mahaguru,"
+
+msgctxt "7bc7cb46e49f446fb77ef6f3d129c527"
+msgid "བདག་ ཀྱང་ ཚེ་རབས་ ཐམས་ཅད་ དུ་␣༔"
+msgstr "I,་in all [my] lifetimes,"
+
+msgctxt "31972f419d9b425d9604a0006d684213"
+msgid "ཞིང་ཁམས་ དག་པ་␣འི་ ཕོ་བྲང་ དུ་␣༔"
+msgstr "In the palace of the pure field realm,"
+
+msgctxt "a9ba11d6e49e426f9a45c2a95ada8655"
+msgid "བླ་མ་ འབྲལ་ མེད་ བསྟེན་པ་␣ར་ ཤོག་␣༔"
+msgstr "Will stay close and not be separated from the guru."
+
+msgctxt "d709a351634944299b4a42806d0d22f9"
+msgid "མོས་གུས་ ལྟེམས་ རྐྱང་ མེད་པ་ ཡིས་␣༔"
+msgstr "By unceasing devotion,"
+
+msgctxt "9156192a034448aca64939586aab34ac"
+msgid "མཉེས་པ་␣འི་ ཞབས་ཏོག་ འགྲུབ་པ་ དང་ ༔"
+msgstr "The service done to please will be accomplished."
+
+msgctxt "d8308320532349f585b69a229a2d82c2"
+msgid "དགོངས་པ་ ཟབ་མོ་ ཐུགས་ ཀྱི་ བཅུད་␣༔"
+msgstr "Profound intent, the essence of  the mind -"
+
+msgctxt "0d3583213c064fceb9405802737559f2"
+msgid "བྱིན་རླབས་ བདུད་རྩི་␣འི་ ལུང་ ཐོབ་ ཤོག་␣༔"
+msgstr "I will obtain oral transmission of nectar blessing."
+
+msgctxt "90d5f2aca79d45f68f9eb583975e7e80"
+msgid "སྐུ་གསུང་ཐུགས་ ཀྱི་ བྱིན་རླབས་ ཀྱིས་␣༔"
+msgstr "The blessings of the enlightened body, speech, and mind"
+
+msgctxt "f43f52f6354f45f193a3d088608faab3"
+msgid "ལུས་ངག་ ཡིད་ གསུམ་ སྨིན་པ་ དང་ ༔"
+msgstr "Will mature [my] body, speech, and mind."
+
+msgctxt "4e85cf435c5f4a3fad9879e39399a1f5"
+msgid "ཟབ་མོ་␣འི་ བསྐྱེད་རྫོགས་ རྣམ་ གཉིས་ ལ་␣༔"
+msgstr "In both profound generation and completion [stages],"
+
+msgctxt "0e31efaea8b7418bbd55dca57c8da8e9"
+msgid "དབང་ ཐོབ་ སྒྲུབ་པ་ བྱེད་པ་␣ར་ ཤོག་␣༔"
+msgstr "I will obtain empowerment and will be accomplished."
+
+msgctxt "aa3e00a63a0f495baef6eaa9dd6094ac"
+msgid "ལོག་རྟོག་ བདུད་ ཀྱི་ ཚོགས་ རྣམས་ དང་ ༔"
+msgstr "Assemblies of maras of the wrong conception,"
+
+msgctxt "8895d0dcc7f54aa1884c9dc48b5dd7bb"
+msgid "ནད་གདོན་ བར་ཆད་ ཞི་བ་ དང་ ༔"
+msgstr "Diseases, negative influences, and obstacles will be pacified."
+
+msgctxt "ec655f0f69084bc08e5e7b1922b11698"
+msgid "འཁོར་ དང་ ལོངས་སྤྱོད་ རྒྱས་པ་ ཡིས་␣༔"
+msgstr "By increasing retinue and wealth,"
+
+msgctxt "686e1140e0104b2ca7a3023e4eb3a963"
+msgid "བསམ་པ་ ཡིད་བཞིན་ འགྲུབ་པ་␣ར་ ཤོག་␣༔"
+msgstr "My wishes will be fulfilled as I desire."
+
+msgctxt "3f39e315cc8a4cdc9190de0ae7701bb7"
+msgid "དུར་ཁྲོད་ རི་ཁྲོད་ གངས་ ཁྲོད་ སོགས་␣༔"
+msgstr "Charnel ground, mountain areas, snow mountain regions, and so on -"
+
+msgctxt "b696e6bb97e0423bb270853acae294aa"
+msgid "ཕུན་སུམ་ ཚོགས་པ་␣འི་ གནས་ ཉིད་ དུ་␣༔"
+msgstr "In the perfectly complete place,"
+
+msgctxt "63e9b60b8aca43caa68143089d9f4867"
+msgid "ཏིང་འཛིན་ ཟབ་མོ་␣འི་ དགོངས་ བཅུད་ ལ་␣༔"
+msgstr "In the essence of profound samadhi contemplation,"
+
+msgctxt "07d1b3661cfa448bba8b8e55845df4fb"
+msgid "རྟག་ ཏུ་ སྒྲུབ་པ་ བྱེད་པ་␣ར་ ཤོག་␣༔"
+msgstr "I will always practice."
+
+msgctxt "6fde48db8ae946499e42ceddd4ebfc6d"
+msgid "སྒྲུབ་པ་ བྱས་པ་␣འི་ འབྲས་བུ་ ཡིས་␣༔"
+msgstr "By the results of [this] practice"
+
+msgctxt "ee1988b68b2f4060885c42583e7eb913"
+msgid "ཕྲིན་ལས་ རྣམ་ བཞི་ འགྲུབ་པ་ དང་ ༔"
+msgstr "The four types of enlightened activity will be accomplished."
+
+msgctxt "b1c275c5f80344c39a878dc8eadef2e2"
+msgid "ལྷ་སྲིན་ བྲན་ དུ་ ཁོལ་ ནས་ ཀྱང་ ༔"
+msgstr "By even enslaving gods and demons,"
+
+msgctxt "bca76a83fe3d418b810441c468a4f6de"
+msgid "སངས་རྒྱས་ བསྟན་པ་ བསྲུང་བ་␣ར་ ཤོག་␣༔"
+msgstr "The Buddha's teaching will be protected."
+
+msgctxt "994be4800c3a49248f79a15bb1ce3e1f"
+msgid "སྟོན་པ་␣ས་ གསུངས་པ་␣འི་ དམ་ཆོས་ རྣམས་␣༔"
+msgstr "Holy dharmas taught by the Teacher"
+
+msgctxt "5b7f9cb163014f63bf543dfdf3e84dba"
+msgid "རྩོལ་ མེད་ རྒྱུད་ ལ་ འཆར་བ་␣ར་ ཤོག་␣༔"
+msgstr "Will appear without effort in the continuum."
+
+msgctxt "9ef3b86a4f844679a928562badbeba76"
+msgid "མཁྱེན་པ་ མཆོག་ ལ་ མངའ་ བརྙེས་ ནས་␣༔"
+msgstr "By gaining control over supreme knowledge,"
+
+msgctxt "1aa2ad6b77724ecb82096e0a2c3e3eec"
+msgid "རྟོགས་པ་ མཆོག་ དང་ ལྡན་པ་␣ར་ ཤོག་␣༔"
+msgstr "I will possess supreme realization."
+
+msgctxt "234f00bfa7fc4b7fa61d5d581847977e"
+msgid "བྱང་ཆུབ་ སེམས་ ཀྱི་ རྟེན་འབྲེལ་ གྱིས་␣༔"
+msgstr "By the dependent relation of bodhicitta,"
+
+msgctxt "2b96cbba63a54ea188b5b212e3b35b07"
+msgid "སྐྱེ་འགྲོ་ མ་ ལུས་དབང་ བསྡུས་ ནས་␣༔"
+msgstr "By gathering all beings without leaving any,"
+
+msgctxt "36e8165158ba4c9fa7b4c02eee05824b"
+msgid "ཐོགས་མེད་ ཡིད་བཞིན་ ནོར་བུ་␣འི་ མཐུ་␣ས ༔"
+msgstr "By the power of unimpeded wish-fulfilling jewel "
+
+msgctxt "db1c4af6fff341b29be261bfce8f17b2"
+msgid "འབྲེལ་ ཚད་ དོན་ དང་ ལྡན་པ་␣ར་ ཤོག་␣༔"
+msgstr "All the encounters will be meaningful."
+
+msgctxt "0afd8d6e9dbf4a93aa3e92045d156e5d"
+msgid "སངས་རྒྱས་ བསྟན་པ་ དར་བ་␣འི་ མཐུ་␣ས ༔"
+msgstr "By the power of the Buddha's teaching being spread,"
+
+msgctxt "9262392e00e14b2099e37c04696533df"
+msgid "བརྒྱུད་འཛིན་ ཆོས་སྟོན་ རྒྱས་པ་ དང་ ༔"
+msgstr "Lineage holders and dharma teachers increase, and"
+
+msgctxt "621fca0ae4bb4d5288de08f30bd435c6"
+msgid "འགྲོ་ ཀུན་ བདེ་ ལ་ འཁོད་ ནས་ ཀྱང་ ༔"
+msgstr "All beings are in ease. By that,"
+
+msgctxt "b913eaa679674d94a8de598d660f52fa"
+msgid "ཞིང་ཁམས་ ཐམས་ཅད་ དག་པ་␣ར་ ཤོག་␣༔"
+msgstr "Every field realm will become clean."
+
+msgctxt "cf5eed36697843f381010550af98bd92"
+msgid "བདག་ གི་ ལུས་ངག་ ཡིད་ གསུམ་ གྱིས་␣༔"
+msgstr "Through my body speech and mind,"
+
+msgctxt "944633a352e543d587ab8f6e20a2ff42"
+msgid "གདུལ་བྱ་ སོ་སོ་␣འི་ བློ་ཡུལ་ དུ་␣༔"
+msgstr "In the objects of mind of each one to be tamed"
+
+msgctxt "7ce2b695e6614eddab38267d98b15392"
+msgid "གང་ ལ་ གང་ འདུལ་ སྤྲུལ་པ་␣འི་ སྐུ་␣༔"
+msgstr "Each with their own [things] to be tamed, Nirmanakaya"
+
+msgctxt "558f137309c2426d90b1295c12880e7f"
+msgid "དཔག་ ཏུ་ མེད་པ་␣ར་ འབྱུང་བ་␣ར་ ཤོག་␣༔"
+msgstr "Will unfathomably appear."
+
+msgctxt "d8f614c19ef04654b4bc0a915c1d6698"
+msgid "མདོར་ན་ འཁོར་འདས་ མ་ ལུས་ ཀུན་␣༔"
+msgstr "In short, all the samsara and nirvana without exception"
+
+msgctxt "941fe7d1f1b14f4aa853f3d64b204954"
+msgid "གུ་རུ་ ཉིད་ དང་ དབྱེ་␣ར་ མེད་ ཅིང་ ༔"
+msgstr "Will be inseparable from the guru."
+
+msgctxt "c534f1355b0b4187b4f275e6606406f9"
+msgid "སྐུ་གསུམ་ འདུ་ འབྲལ་ མེད་པ་ ཡི་␣༔"
+msgstr "Three kayas without meeting and parting -"
+
+msgctxt "953bd419cd3b40d3a1ec7a28bdb7f294"
+msgid "རྣམ་མཁྱེན་ སངས་རྒྱས་ མྱུར་ ཐོབ་ ཤོག་␣༔"
+msgstr "Omniscient buddhahood, I will quickly attain. "
+
+msgctxt "f823cf63b0e04fb8a2a80af68e4c00b9"
+msgid "སེམས་ཅན་ གསོལ་བ་ འདེབས་པ་␣ར་ ཤོག་␣༔"
+msgstr "Sentient beings will supplicate."
+
+msgctxt "41ddd0ad2efc4892b90af2e666a0e0a7"
+msgid "བླ་མ་␣ས་ བྱིན་ གྱིས་ རློབས་ པར་ཤོག་␣༔"
+msgstr "Gurus will grant blessings."
+
+msgctxt "807cc1ac68fb42acb38a23917542b2c7"
+msgid "ཡི་དམ་ དངོས་གྲུབ་ སྟེར་བ་␣ར་ ཤོག་␣༔"
+msgstr "Personal deities will grant accomplishments."
+
+msgctxt "dc8725172b234ba5ac2871a1fb722c88"
+msgid "མཁའ་འགྲོ་␣ས་ ལུང་བསྟན་ བྱེད་པ་␣ར་ ཤོག་␣༔"
+msgstr "Dakinis will make predictions."
+
+msgctxt "ead7c34847e94547b651162a78b5992d"
+msgid "ཆོས་སྐྱོང་ བར་ཆད་ བསལ་བ་␣ར་ ཤོག་␣༔"
+msgstr "Dharma protectors will dispel obstacles."
+
+msgctxt "32a71ee1d5da43b3b36991a882da83c7"
+msgid "སངས་རྒྱས་ བསྟན་པ་ དར་ ཞིང་ རྒྱས་པ་␣ར་ ཤོག་␣༔"
+msgstr "The Buddha's teachings will flourish and spread."
+
+msgctxt "c1f107afd04643d08006fb0c76ecde1a"
+msgid "སེམས་ཅན་ ཐམས་ཅད་ བདེ་ ཞིང་ སྐྱིད་པ་␣ར་ ཤོག་␣༔"
+msgstr "All sentient beings will have ease and happiness."
+
+msgctxt "3ab662d360e648ad83d22b515f0e08dc"
+msgid "ཉིན་ དང་ མཚན་ དུ་ ཆོས་ ལ་ སྤྱོད་པ་␣ར་ ཤོག་␣༔"
+msgstr "They will practice dharma day and night."
+
+msgctxt "be319629f72e49eb996b33b019519e54"
+msgid "རང་གཞན་ དོན་ གཉིས་ ལྷུན་ གྱིས་ གྲུབ་པ་␣ར་ ཤོག་␣༔"
+msgstr "Self and other's aims will spontaneously come into existence."
+
+msgctxt "2d49bde1ecc54377aaf588b899d5e24a"
+msgid "རང་བཞིན་ དག་པ་␣འི་ དགེ་བ་ འདི་␣ས ༔"
+msgstr "By this virtue of intrinsically pure nature,"
+
+msgctxt "c139d817b90444558a118145470065bb"
+msgid "འཁོར་བ་ ངན་སོང་ དོང་སྤྲུག་ ནས་␣༔"
+msgstr "Samsara's bad migrations are emptied from the depths. Therefore,"
+
+msgctxt "1285b2d8215a46728a19ed6d45c6b948"
+msgid "སྲིད་ མཚོ་␣ར་ སླར་ཡང་ མི་ གནས་ ཤིང་ ༔"
+msgstr "Not being in the ocean of existence once again,"
+
+msgctxt "89da30e6bb064b88b13b87d0a69f6efb"
+msgid "ཕྱམ་ གཅིག་ སྐུ་གསུམ་ མངོན་གྱུར་ ཤོག་␣༔"
+msgstr "Three kayas all together will become manifest."
+
+msgctxt "670b8cd0e44e46cba66274893e8e3e3f"
+msgid "རྒྱལ་བ་ ཀུན་ གྱི་ གསང་ ཆེན་ མཛོད་␣༔"
+msgstr "A great secret treasury of all the victors -"
+
+msgctxt "066829224249435981395b9b4c2712d5"
+msgid "བླ་མེད་ མཆོག་ གི་ བསྟན་པ་ འདི་␣༔"
+msgstr "This unsurpassed supreme teaching,"
+
+msgctxt "dd8bd42cc5414102bf9b6f7f206a20c6"
+msgid "ཇི་ལྟར་ མཁའ་ ལ་ ཉི་ཤར་ བཞིན་␣༔"
+msgstr "Like the sun rising in the sky,"
+
+msgctxt "eef75e77f12c41e68b269a28bfe833b0"
+msgid "རྒྱལ་ཁམས་ ཡོངས་ ལ་ད་␣ར་ རྒྱས་ ཤོག་␣༔"
+msgstr "Will flourish and spread in all the lands."
+
+msgctxt "4e5bd6004cba4db2899d4f5380effc94"
+msgid ""
+"བདག་ གི་ དགེ་བ་␣འི་ རྩ་བ་ འདི་ དང་ དགེ་བ་␣འི་ རྩ་བ་ གཞན་དག་ ཀྱང་ བསྐྱེད་ "
+"ནས་␣༔"
+msgstr "After this root of virtue and other roots of virtues are produced,"
+
+msgctxt "1b70f77437684c1dbe7d92b962516d75"
+msgid ""
+"དཔལ་ལྡན་ བླ་མ་␣འི་ ཐུགས་དགོངས་ ཡོངས་སུ་ རྫོགས་པ་␣འི་ ཡོན་ཏན་ དང་ ལྡན་པ་␣ར་ "
+"གྱུར་ཅིག་␣༔"
+msgstr ""
+"I will possess good qualities that wholly complete intent of glorious guru,"
+
+msgctxt "8f57405657ca4a1ea54e6ea55577e1e2"
+msgid ""
+"སངས་རྒྱས་ ཀྱི་ བསྟན་པ་ རིན་པོ་ཆེ་ དར་ ཞིང་ རྒྱས་པ་␣ར་ བྱེད་པ་␣འི་ སྐྱེས་བུ་ "
+"སྟོབས་ལྡན་ དུ་ གྱུར་ཅིག་␣༔"
+msgstr ""
+"I will possess the power to make the Buddha's precious teachings flourish "
+"and spread,"
+
+msgctxt "95f6455f6f0a4378a60223371d63811d"
+msgid ""
+"མཁྱེན་པ་ དང་ བརྩེ་བ་ ནུས་པ་ གསུམ་ མཐ་␣ར་ ཕྱིན་ ནས་ རྫོགས་པ་␣འི་ སངས་རྒྱས་ "
+"སུ་ གྱུར་ཅིག་␣༔"
+msgstr ""
+"I will become a complete buddha by perfecting knowledge, love, and capacity,"
+
+msgctxt "0bbb27e992d843a2b224c605468e054d"
+msgid ""
+"འགྲོ་བ་ རིགས་ དྲུག་ ན་ གནས་པ་␣འི་ སེམས་ཅན་ ཐམས་ཅད་ འཁོར་བ་ སྡུག་བསྔལ་ གྱི་ "
+"རྒྱ་མཚོ་ ལ་␣ས་ བསྒྲལ་ ཏེ་ མྱུར་ དུ་ མངོན་པར་ རྫོགས་པ་␣ར་ སངས་རྒྱས་པ་␣ར་ "
+"གྱུར་ཅིག་␣༔"
+msgstr ""
+"Every sentient being remaining in the six classes of beings will be "
+"liberated from the ocean of suffering of samsara, and will quickly become a "
+"manifest complete buddha."
+
+msgctxt "b91c28ff09df42bc899ad57bca17cbda"
+msgid ""
+"བདག་ འདྲ་ པདྨ་ གླིང་པ་␣ས་ ལྷོ་བྲག་ སྨན་ མདོ་␣འི་ བྲག་ སེང་གེ་␣འི་ གདོང་པ་ "
+"ཅན་ ནས་ གདན་ དྲངས་པ་␣འོ ། །"
+msgstr ""
+"This was withdrawn by someone like me, Pema Lingpa, from the medicinal stone"
+" rock having a lion's face in Lhodrak."
