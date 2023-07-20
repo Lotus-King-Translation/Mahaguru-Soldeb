@@ -1,10 +1,11 @@
 # 
 # Translators:
 # Inga Pogosyan, 2023
+# Mikko Kotila, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Inga Pogosyan, 2023\n"
+"Last-Translator: Mikko Kotila, 2023\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -83,7 +84,7 @@ msgstr "I will obtain empowerment and will be accomplished."
 
 msgctxt "aa3e00a63a0f495baef6eaa9dd6094ac"
 msgid "ལོག་རྟོག་ བདུད་ ཀྱི་ ཚོགས་ རྣམས་ དང་ ༔"
-msgstr "Assemblies of maras of the wrong conception,"
+msgstr "Assemblies of maras of mistaken conceptions,"
 
 msgctxt "8895d0dcc7f54aa1884c9dc48b5dd7bb"
 msgid "ནད་གདོན་ བར་ཆད་ ཞི་བ་ དང་ ༔"
