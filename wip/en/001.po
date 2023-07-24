@@ -152,7 +152,7 @@ msgstr "By the interdependence of bodhicitta,"
 
 msgctxt "2b96cbba63a54ea188b5b212e3b35b07"
 msgid "སྐྱེ་འགྲོ་ མ་ ལུས་དབང་ བསྡུས་ ནས་␣༔"
-msgstr "By gathering all beings without leaving any,"
+msgstr "By gathering all beings without excluding any,"
 
 msgctxt "36e8165158ba4c9fa7b4c02eee05824b"
 msgid "ཐོགས་མེད་ ཡིད་བཞིན་ ནོར་བུ་␣འི་ མཐུ་␣ས ༔"
