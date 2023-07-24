@@ -196,7 +196,7 @@ msgstr "Will unfathomably appear."
 
 msgctxt "d8f614c19ef04654b4bc0a915c1d6698"
 msgid "མདོར་ན་ འཁོར་འདས་ མ་ ལུས་ ཀུན་␣༔"
-msgstr "In brief, all the samsara and nirvana without exception"
+msgstr "In brief, all the samsara and nirvana without exception,"
 
 msgctxt "941fe7d1f1b14f4aa853f3d64b204954"
 msgid "གུ་རུ་ ཉིད་ དང་ དབྱེ་␣ར་ མེད་ ཅིང་ ༔"
