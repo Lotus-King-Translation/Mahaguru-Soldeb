@@ -132,7 +132,7 @@ msgstr "The Buddha's teaching will be protected."
 
 msgctxt "994be4800c3a49248f79a15bb1ce3e1f"
 msgid "སྟོན་པ་␣ས་ གསུངས་པ་␣འི་ དམ་ཆོས་ རྣམས་␣༔"
-msgstr "Holy dharmas taught by the Teacher"
+msgstr "Holy dharmas taught by the Teacher,"
 
 msgctxt "5b7f9cb163014f63bf543dfdf3e84dba"
 msgid "རྩོལ་ མེད་ རྒྱུད་ ལ་ འཆར་བ་␣ར་ ཤོག་␣༔"
