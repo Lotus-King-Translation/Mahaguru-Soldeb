@@ -248,7 +248,7 @@ msgstr "The aims of self and others spontaneously come into existence."
 
 msgctxt "2d49bde1ecc54377aaf588b899d5e24a"
 msgid "རང་བཞིན་ དག་པ་␣འི་ དགེ་བ་ འདི་␣ས ༔"
-msgstr "By this virtue of intrinsically pure nature,"
+msgstr "Through this virtue of intrinsically pure nature,"
 
 msgctxt "c139d817b90444558a118145470065bb"
 msgid "འཁོར་བ་ ངན་སོང་ དོང་སྤྲུག་ ནས་␣༔"
