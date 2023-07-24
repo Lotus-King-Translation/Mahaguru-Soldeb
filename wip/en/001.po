@@ -92,7 +92,7 @@ msgstr "Diseases, negative influences, and obstacles will be pacified."
 
 msgctxt "ec655f0f69084bc08e5e7b1922b11698"
 msgid "འཁོར་ དང་ ལོངས་སྤྱོད་ རྒྱས་པ་ ཡིས་␣༔"
-msgstr "By increasing retinue and wealth,"
+msgstr "Through increasing retinue and wealth,"
 
 msgctxt "686e1140e0104b2ca7a3023e4eb3a963"
 msgid "བསམ་པ་ ཡིད་བཞིན་ འགྲུབ་པ་␣ར་ ཤོག་␣༔"
