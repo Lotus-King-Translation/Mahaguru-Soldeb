@@ -148,7 +148,7 @@ msgstr "I will possess supreme realization."
 
 msgctxt "234f00bfa7fc4b7fa61d5d581847977e"
 msgid "བྱང་ཆུབ་ སེམས་ ཀྱི་ རྟེན་འབྲེལ་ གྱིས་␣༔"
-msgstr "By the dependent relation of bodhicitta,"
+msgstr "By the interdependence of bodhicitta,"
 
 msgctxt "2b96cbba63a54ea188b5b212e3b35b07"
 msgid "སྐྱེ་འགྲོ་ མ་ ལུས་དབང་ བསྡུས་ ནས་␣༔"
