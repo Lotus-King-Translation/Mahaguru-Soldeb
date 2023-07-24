@@ -204,7 +204,7 @@ msgstr "Will be inseparable from the guru."
 
 msgctxt "c534f1355b0b4187b4f275e6606406f9"
 msgid "སྐུ་གསུམ་ འདུ་ འབྲལ་ མེད་པ་ ཡི་␣༔"
-msgstr "Three kayas without meeting and parting -"
+msgstr "Three kayas without meeting and parting,"
 
 msgctxt "953bd419cd3b40d3a1ec7a28bdb7f294"
 msgid "རྣམ་མཁྱེན་ སངས་རྒྱས་ མྱུར་ ཐོབ་ ཤོག་␣༔"
