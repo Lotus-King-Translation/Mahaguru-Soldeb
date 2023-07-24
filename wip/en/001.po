@@ -208,7 +208,7 @@ msgstr "Three kayas without meeting and parting,"
 
 msgctxt "953bd419cd3b40d3a1ec7a28bdb7f294"
 msgid "རྣམ་མཁྱེན་ སངས་རྒྱས་ མྱུར་ ཐོབ་ ཤོག་␣༔"
-msgstr "Omniscient buddhahood, I will quickly attain. "
+msgstr "The omniscient buddhahood, I will quickly attain. "
 
 msgctxt "f823cf63b0e04fb8a2a80af68e4c00b9"
 msgid "སེམས་ཅན་ གསོལ་བ་ འདེབས་པ་␣ར་ ཤོག་␣༔"
