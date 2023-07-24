@@ -264,7 +264,7 @@ msgstr "Three kayas all together will become manifest."
 
 msgctxt "670b8cd0e44e46cba66274893e8e3e3f"
 msgid "རྒྱལ་བ་ ཀུན་ གྱི་ གསང་ ཆེན་ མཛོད་␣༔"
-msgstr "A great secret treasury of all the victors -"
+msgstr "A great secret treasury of all the victors,"
 
 msgctxt "066829224249435981395b9b4c2712d5"
 msgid "བླ་མེད་ མཆོག་ གི་ བསྟན་པ་ འདི་␣༔"
