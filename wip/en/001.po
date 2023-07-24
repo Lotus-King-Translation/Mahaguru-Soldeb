@@ -232,7 +232,7 @@ msgstr "Dharma protectors will dispel obstacles."
 
 msgctxt "32a71ee1d5da43b3b36991a882da83c7"
 msgid "སངས་རྒྱས་ བསྟན་པ་ དར་ ཞིང་ རྒྱས་པ་␣ར་ ཤོག་␣༔"
-msgstr "The Buddha's teachings will flourish and spread."
+msgstr "The Buddha's teachings will spread and flourish."
 
 msgctxt "c1f107afd04643d08006fb0c76ecde1a"
 msgid "སེམས་ཅན་ ཐམས་ཅད་ བདེ་ ཞིང་ སྐྱིད་པ་␣ར་ ཤོག་␣༔"
