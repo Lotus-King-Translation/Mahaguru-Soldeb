@@ -116,7 +116,7 @@ msgstr "I will always practice."
 
 msgctxt "6fde48db8ae946499e42ceddd4ebfc6d"
 msgid "སྒྲུབ་པ་ བྱས་པ་␣འི་ འབྲས་བུ་ ཡིས་␣༔"
-msgstr "By the results of [this] practice"
+msgstr "By the results of [this] practice,"
 
 msgctxt "ee1988b68b2f4060885c42583e7eb913"
 msgid "ཕྲིན་ལས་ རྣམ་ བཞི་ འགྲུབ་པ་ དང་ ༔"
