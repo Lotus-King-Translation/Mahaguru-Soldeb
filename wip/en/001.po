@@ -104,7 +104,7 @@ msgstr "Charnel ground, mountain areas, snow mountain regions, and so on -"
 
 msgctxt "b696e6bb97e0423bb270853acae294aa"
 msgid "ཕུན་སུམ་ ཚོགས་པ་␣འི་ གནས་ ཉིད་ དུ་␣༔"
-msgstr "In the perfectly complete place,"
+msgstr "In the perfectly complete place itself,"
 
 msgctxt "63e9b60b8aca43caa68143089d9f4867"
 msgid "ཏིང་འཛིན་ ཟབ་མོ་␣འི་ དགོངས་ བཅུད་ ལ་␣༔"
