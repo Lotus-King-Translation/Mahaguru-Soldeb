@@ -228,7 +228,7 @@ msgstr "Dakinis will make predictions."
 
 msgctxt "ead7c34847e94547b651162a78b5992d"
 msgid "ཆོས་སྐྱོང་ བར་ཆད་ བསལ་བ་␣ར་ ཤོག་␣༔"
-msgstr "Dharma protectors will dispel obstacles."
+msgstr "Dharma protectors will clear obstacles."
 
 msgctxt "32a71ee1d5da43b3b36991a882da83c7"
 msgid "སངས་རྒྱས་ བསྟན་པ་ དར་ ཞིང་ རྒྱས་པ་␣ར་ ཤོག་␣༔"
