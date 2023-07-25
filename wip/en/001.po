@@ -140,7 +140,7 @@ msgstr "Will appear without effort in the continuum."
 
 msgctxt "9ef3b86a4f844679a928562badbeba76"
 msgid "མཁྱེན་པ་ མཆོག་ ལ་ མངའ་ བརྙེས་ ནས་␣༔"
-msgstr "By gaining control over supreme knowledge,"
+msgstr "By receiving and having supreme knowledge,"
 
 msgctxt "1aa2ad6b77724ecb82096e0a2c3e3eec"
 msgid "རྟོགས་པ་ མཆོག་ དང་ ལྡན་པ་␣ར་ ཤོག་␣༔"
