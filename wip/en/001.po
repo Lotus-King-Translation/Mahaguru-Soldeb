@@ -76,7 +76,7 @@ msgstr "Will mature [my] body, speech, and mind."
 
 msgctxt "4e85cf435c5f4a3fad9879e39399a1f5"
 msgid "ཟབ་མོ་␣འི་ བསྐྱེད་རྫོགས་ རྣམ་ གཉིས་ ལ་␣༔"
-msgstr "In both profound generation and completion [stages],"
+msgstr "In both profound generation and completion,"
 
 msgctxt "0e31efaea8b7418bbd55dca57c8da8e9"
 msgid "དབང་ ཐོབ་ སྒྲུབ་པ་ བྱེད་པ་␣ར་ ཤོག་␣༔"
