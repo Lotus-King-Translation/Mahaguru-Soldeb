@@ -44,7 +44,7 @@ msgstr "I,་in all [my] lifetimes,"
 
 msgctxt "31972f419d9b425d9604a0006d684213"
 msgid "ཞིང་ཁམས་ དག་པ་␣འི་ ཕོ་བྲང་ དུ་␣༔"
-msgstr "In the palace of the pure field realm,"
+msgstr "In the palace of the pure buddha field,"
 
 msgctxt "a9ba11d6e49e426f9a45c2a95ada8655"
 msgid "བླ་མ་ འབྲལ་ མེད་ བསྟེན་པ་␣ར་ ཤོག་␣༔"
