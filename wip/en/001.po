@@ -60,7 +60,7 @@ msgstr "The service done to please will be accomplished."
 
 msgctxt "d8308320532349f585b69a229a2d82c2"
 msgid "དགོངས་པ་ ཟབ་མོ་ ཐུགས་ ཀྱི་ བཅུད་␣༔"
-msgstr "Profound intent, the essence of  the mind -"
+msgstr "Profound intent, the essence of the mind -"
 
 msgctxt "0d3583213c064fceb9405802737559f2"
 msgid "བྱིན་རླབས་ བདུད་རྩི་␣འི་ ལུང་ ཐོབ་ ཤོག་␣༔"
