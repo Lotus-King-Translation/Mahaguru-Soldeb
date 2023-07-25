@@ -180,7 +180,7 @@ msgstr "Every field realm will become clean."
 
 msgctxt "cf5eed36697843f381010550af98bd92"
 msgid "བདག་ གི་ ལུས་ངག་ ཡིད་ གསུམ་ གྱིས་␣༔"
-msgstr "Through my body speech and mind,"
+msgstr "Through the triad of my body speech and mind,"
 
 msgctxt "944633a352e543d587ab8f6e20a2ff42"
 msgid "གདུལ་བྱ་ སོ་སོ་␣འི་ བློ་ཡུལ་ དུ་␣༔"
