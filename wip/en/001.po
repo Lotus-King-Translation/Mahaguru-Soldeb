@@ -48,7 +48,7 @@ msgstr "In the palace of the pure buddha field,"
 
 msgctxt "a9ba11d6e49e426f9a45c2a95ada8655"
 msgid "བླ་མ་ འབྲལ་ མེད་ བསྟེན་པ་␣ར་ ཤོག་␣༔"
-msgstr "Will stay close and not be separated from the guru."
+msgstr "Will serve the guru and will not be separated from [him]."
 
 msgctxt "d709a351634944299b4a42806d0d22f9"
 msgid "མོས་གུས་ ལྟེམས་ རྐྱང་ མེད་པ་ ཡིས་␣༔"
