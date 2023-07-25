@@ -164,7 +164,7 @@ msgstr "All the encounters will be meaningful."
 
 msgctxt "0afd8d6e9dbf4a93aa3e92045d156e5d"
 msgid "སངས་རྒྱས་ བསྟན་པ་ དར་བ་␣འི་ མཐུ་␣ས ༔"
-msgstr "By the power of Buddha's teaching that being spread,"
+msgstr "By the power of spreading Buddha's teaching,"
 
 msgctxt "9262392e00e14b2099e37c04696533df"
 msgid "བརྒྱུད་འཛིན་ ཆོས་སྟོན་ རྒྱས་པ་ དང་ ༔"
