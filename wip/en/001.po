@@ -268,7 +268,7 @@ msgstr "A great secret treasury of all the victors,"
 
 msgctxt "066829224249435981395b9b4c2712d5"
 msgid "བླ་མེད་ མཆོག་ གི་ བསྟན་པ་ འདི་␣༔"
-msgstr "This unsurpassed supreme teaching,"
+msgstr "This teaching of supreme unsurpassed,"
 
 msgctxt "dd8bd42cc5414102bf9b6f7f206a20c6"
 msgid "ཇི་ལྟར་ མཁའ་ ལ་ ཉི་ཤར་ བཞིན་␣༔"
