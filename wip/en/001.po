@@ -72,7 +72,7 @@ msgstr "The blessings of the enlightened body, speech, and mind"
 
 msgctxt "f43f52f6354f45f193a3d088608faab3"
 msgid "ལུས་ངག་ ཡིད་ གསུམ་ སྨིན་པ་ དང་ ༔"
-msgstr "Will mature [my] body, speech, and mind."
+msgstr "Will mature body, speech, and mind."
 
 msgctxt "4e85cf435c5f4a3fad9879e39399a1f5"
 msgid "ཟབ་མོ་␣འི་ བསྐྱེད་རྫོགས་ རྣམ་ གཉིས་ ལ་␣༔"
