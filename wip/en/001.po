@@ -276,7 +276,7 @@ msgstr "Like the sun rising in the sky,"
 
 msgctxt "eef75e77f12c41e68b269a28bfe833b0"
 msgid "རྒྱལ་ཁམས་ ཡོངས་ ལ་ད་␣ར་ རྒྱས་ ཤོག་␣༔"
-msgstr "Will flourish and spread in all the lands."
+msgstr "Will flourish and spread in all the lands and realms."
 
 msgctxt "4e5bd6004cba4db2899d4f5380effc94"
 msgid ""
