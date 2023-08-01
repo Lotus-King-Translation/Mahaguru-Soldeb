@@ -256,7 +256,7 @@ msgstr "Samsara's bad migrations will be emptied from the depths. Therefore,"
 
 msgctxt "1285b2d8215a46728a19ed6d45c6b948"
 msgid "སྲིད་ མཚོ་␣ར་ སླར་ཡང་ མི་ གནས་ ཤིང་ ༔"
-msgstr "Not being in the ocean of existence once again,"
+msgstr "Not abiding in the ocean of existence once again,"
 
 msgctxt "89da30e6bb064b88b13b87d0a69f6efb"
 msgid "ཕྱམ་ གཅིག་ སྐུ་གསུམ་ མངོན་གྱུར་ ཤོག་␣༔"
