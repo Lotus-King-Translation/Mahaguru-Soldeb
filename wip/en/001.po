@@ -188,7 +188,7 @@ msgstr "In the objects of mind of each one to be tamed,"
 
 msgctxt "7ce2b695e6614eddab38267d98b15392"
 msgid "གང་ ལ་ གང་ འདུལ་ སྤྲུལ་པ་␣འི་ སྐུ་␣༔"
-msgstr "[With] whatever to be tamed, Nirmanakaya"
+msgstr "Whatever to be tamed [with], Nirmanakaya"
 
 msgctxt "558f137309c2426d90b1295c12880e7f"
 msgid "དཔག་ ཏུ་ མེད་པ་␣ར་ འབྱུང་བ་␣ར་ ཤོག་␣༔"
