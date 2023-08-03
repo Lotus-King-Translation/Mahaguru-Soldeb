@@ -108,7 +108,7 @@ msgstr "In the perfectly complete place itself,"
 
 msgctxt "63e9b60b8aca43caa68143089d9f4867"
 msgid "ཏིང་འཛིན་ ཟབ་མོ་␣འི་ དགོངས་ བཅུད་ ལ་␣༔"
-msgstr "In the essence of profound samadhi contemplation,"
+msgstr "In the essence of profound samadhi,"
 
 msgctxt "07d1b3661cfa448bba8b8e55845df4fb"
 msgid "རྟག་ ཏུ་ སྒྲུབ་པ་ བྱེད་པ་␣ར་ ཤོག་␣༔"
