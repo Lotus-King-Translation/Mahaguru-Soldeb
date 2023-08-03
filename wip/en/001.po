@@ -1,11 +1,11 @@
 # 
 # Translators:
-# Mikko Kotila, 2023
 # Inga Pogosyan, 2023
+# Mikko Kotila, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Inga Pogosyan, 2023\n"
+"Last-Translator: Mikko Kotila, 2023\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,7 +68,7 @@ msgstr "I will obtain oral transmission of nectar blessing."
 
 msgctxt "90d5f2aca79d45f68f9eb583975e7e80"
 msgid "སྐུ་གསུང་ཐུགས་ ཀྱི་ བྱིན་རླབས་ ཀྱིས་␣༔"
-msgstr "The blessings of the enlightened body, speech, and mind"
+msgstr "The blessings of the [enlightened] body, speech, and mind"
 
 msgctxt "f43f52f6354f45f193a3d088608faab3"
 msgid "ལུས་ངག་ ཡིད་ གསུམ་ སྨིན་པ་ དང་ ༔"
