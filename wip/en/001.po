@@ -124,7 +124,7 @@ msgstr "The four types of enlightened activity will be accomplished."
 
 msgctxt "b1c275c5f80344c39a878dc8eadef2e2"
 msgid "ལྷ་སྲིན་ བྲན་ དུ་ ཁོལ་ ནས་ ཀྱང་ ༔"
-msgstr "By even binding gods and demons into service,"
+msgstr "By even binding gods and rakshasas into service,"
 
 msgctxt "bca76a83fe3d418b810441c468a4f6de"
 msgid "སངས་རྒྱས་ བསྟན་པ་ བསྲུང་བ་␣ར་ ཤོག་␣༔"
