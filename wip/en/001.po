@@ -100,7 +100,7 @@ msgstr "Wishes will be fulfilled as wished."
 
 msgctxt "3f39e315cc8a4cdc9190de0ae7701bb7"
 msgid "དུར་ཁྲོད་ རི་ཁྲོད་ གངས་ ཁྲོད་ སོགས་␣༔"
-msgstr "Charnel ground, mountain areas, snow mountain regions, and so on -"
+msgstr "Charnel ground, mountain areas, snow mountain regions, and so on,"
 
 msgctxt "b696e6bb97e0423bb270853acae294aa"
 msgid "ཕུན་སུམ་ ཚོགས་པ་␣འི་ གནས་ ཉིད་ དུ་␣༔"
