@@ -1,11 +1,11 @@
 # 
 # Translators:
-# Mikko Kotila, 2023
 # Inga Pogosyan, 2023
+# Mikko Kotila, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Inga Pogosyan, 2023\n"
+"Last-Translator: Mikko Kotila, 2024\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,11 +15,11 @@ msgstr ""
 
 msgctxt "101a65344a974ad79787d1f3648cd827"
 msgid "༄༅། ། མ་ ཧཱ་ གུ་རུ་ གསོལ་འདེབས ། །"
-msgstr "Mahaguru Supplication."
+msgstr "Mahaguru Supplication"
 
 msgctxt "9fb2aa5d0b2a4feab83a4e872dcca2c7"
 msgid "ན་མོ་ གུ་རུ་␣༔"
-msgstr "Namo Guru."
+msgstr "NAMO GURU"
 
 msgctxt "fe9805022aab4f728f0ce67375008302"
 msgid ""
