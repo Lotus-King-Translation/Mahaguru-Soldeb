@@ -64,7 +64,7 @@ msgstr "Profound transcendent state, the essence of the mind -"
 
 msgctxt "0d3583213c064fceb9405802737559f2"
 msgid "བྱིན་རླབས་ བདུད་རྩི་␣འི་ ལུང་ ཐོབ་ ཤོག་␣༔"
-msgstr "I will obtain oral transmission of nectar blessing."
+msgstr "I will obtain transmission of nectar blessing."
 
 msgctxt "90d5f2aca79d45f68f9eb583975e7e80"
 msgid "སྐུ་གསུང་ཐུགས་ ཀྱི་ བྱིན་རླབས་ ཀྱིས་␣༔"
