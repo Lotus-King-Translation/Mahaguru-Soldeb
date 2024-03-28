@@ -52,7 +52,7 @@ msgstr "Will serve the guru and will not be separated from [him]."
 
 msgctxt "d709a351634944299b4a42806d0d22f9"
 msgid "མོས་གུས་ ལྟེམས་ རྐྱང་ མེད་པ་ ཡིས་␣༔"
-msgstr "By unceasing devotion,"
+msgstr "By ལྟེམས་རྐྱང་མེད་པ་ devotion,"
 
 msgctxt "9156192a034448aca64939586aab34ac"
 msgid "མཉེས་པ་␣འི་ ཞབས་ཏོག་ འགྲུབ་པ་ དང་ ༔"
