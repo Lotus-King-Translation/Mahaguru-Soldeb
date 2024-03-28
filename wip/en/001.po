@@ -80,7 +80,7 @@ msgstr "In both profound generation and completion,"
 
 msgctxt "0e31efaea8b7418bbd55dca57c8da8e9"
 msgid "དབང་ ཐོབ་ སྒྲུབ་པ་ བྱེད་པ་␣ར་ ཤོག་␣༔"
-msgstr "Obtaining empowerment will be accomplished."
+msgstr "Attaining empowerment will be accomplished."
 
 msgctxt "aa3e00a63a0f495baef6eaa9dd6094ac"
 msgid "ལོག་རྟོག་ བདུད་ ཀྱི་ ཚོགས་ རྣམས་ དང་ ༔"
