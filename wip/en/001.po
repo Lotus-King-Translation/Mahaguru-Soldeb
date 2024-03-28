@@ -96,7 +96,7 @@ msgstr "Through increasing retinue and wealth,"
 
 msgctxt "686e1140e0104b2ca7a3023e4eb3a963"
 msgid "བསམ་པ་ ཡིད་བཞིན་ འགྲུབ་པ་␣ར་ ཤོག་␣༔"
-msgstr "My wishes will be fulfilled as I desire."
+msgstr "Wishes will be fulfilled as wished."
 
 msgctxt "3f39e315cc8a4cdc9190de0ae7701bb7"
 msgid "དུར་ཁྲོད་ རི་ཁྲོད་ གངས་ ཁྲོད་ སོགས་␣༔"
