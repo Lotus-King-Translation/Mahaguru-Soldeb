@@ -216,7 +216,7 @@ msgstr "Sentient beings will supplicate."
 
 msgctxt "41ddd0ad2efc4892b90af2e666a0e0a7"
 msgid "བླ་མ་␣ས་ བྱིན་ གྱིས་ རློབས་ པར་ཤོག་␣༔"
-msgstr "Gurus will grant blessings."
+msgstr "Gurus will bestow blessings."
 
 msgctxt "807cc1ac68fb42acb38a23917542b2c7"
 msgid "ཡི་དམ་ དངོས་གྲུབ་ སྟེར་བ་␣ར་ ཤོག་␣༔"
