@@ -176,7 +176,7 @@ msgstr "All beings remain in ease. By that,"
 
 msgctxt "b913eaa679674d94a8de598d660f52fa"
 msgid "ཞིང་ཁམས་ ཐམས་ཅད་ དག་པ་␣ར་ ཤོག་␣༔"
-msgstr "Every field realm will become clean."
+msgstr "Every field will become pure."
 
 msgctxt "cf5eed36697843f381010550af98bd92"
 msgid "བདག་ གི་ ལུས་ངག་ ཡིད་ གསུམ་ གྱིས་␣༔"
