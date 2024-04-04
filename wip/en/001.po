@@ -160,7 +160,7 @@ msgstr "By the power of unimpeded wish-fulfilling jewel, "
 
 msgctxt "db1c4af6fff341b29be261bfce8f17b2"
 msgid "འབྲེལ་ ཚད་ དོན་ དང་ ལྡན་པ་␣ར་ ཤོག་␣༔"
-msgstr "All the encounters will be meaningful."
+msgstr "All circumstances will be meaningful."
 
 msgctxt "0afd8d6e9dbf4a93aa3e92045d156e5d"
 msgid "སངས་རྒྱས་ བསྟན་པ་ དར་བ་␣འི་ མཐུ་␣ས ༔"
