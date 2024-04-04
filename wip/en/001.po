@@ -144,7 +144,7 @@ msgstr "By receiving and having supreme knowledge,"
 
 msgctxt "1aa2ad6b77724ecb82096e0a2c3e3eec"
 msgid "རྟོགས་པ་ མཆོག་ དང་ ལྡན་པ་␣ར་ ཤོག་␣༔"
-msgstr "I will possess supreme realization."
+msgstr "Supreme realization will be possessed."
 
 msgctxt "234f00bfa7fc4b7fa61d5d581847977e"
 msgid "བྱང་ཆུབ་ སེམས་ ཀྱི་ རྟེན་འབྲེལ་ གྱིས་␣༔"
