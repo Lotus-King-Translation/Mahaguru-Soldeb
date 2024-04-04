@@ -172,7 +172,7 @@ msgstr "Lineage holders and dharma teachers will expand, and"
 
 msgctxt "621fca0ae4bb4d5288de08f30bd435c6"
 msgid "འགྲོ་ ཀུན་ བདེ་ ལ་ འཁོད་ ནས་ ཀྱང་ ༔"
-msgstr "All beings are in ease. By that,"
+msgstr "All beings remain in ease. By that,"
 
 msgctxt "b913eaa679674d94a8de598d660f52fa"
 msgid "ཞིང་ཁམས་ ཐམས་ཅད་ དག་པ་␣ར་ ཤོག་␣༔"
