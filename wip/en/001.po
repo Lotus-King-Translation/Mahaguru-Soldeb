@@ -200,7 +200,7 @@ msgstr "In brief, all the samsara and nirvana without exception,"
 
 msgctxt "941fe7d1f1b14f4aa853f3d64b204954"
 msgid "གུ་རུ་ ཉིད་ དང་ དབྱེ་␣ར་ མེད་ ཅིང་ ༔"
-msgstr "Will be inseparable from the guru."
+msgstr "Will be inseparable from the guru itself."
 
 msgctxt "c534f1355b0b4187b4f275e6606406f9"
 msgid "སྐུ་གསུམ་ འདུ་ འབྲལ་ མེད་པ་ ཡི་␣༔"
