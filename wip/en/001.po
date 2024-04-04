@@ -136,7 +136,7 @@ msgstr "Holy dharmas taught by the Teacher,"
 
 msgctxt "5b7f9cb163014f63bf543dfdf3e84dba"
 msgid "རྩོལ་ མེད་ རྒྱུད་ ལ་ འཆར་བ་␣ར་ ཤོག་␣༔"
-msgstr "Will appear without effort in the continuum."
+msgstr "Will appear in the continuum without effort."
 
 msgctxt "9ef3b86a4f844679a928562badbeba76"
 msgid "མཁྱེན་པ་ མཆོག་ ལ་ མངའ་ བརྙེས་ ནས་␣༔"
