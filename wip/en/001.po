@@ -168,7 +168,7 @@ msgstr "By the power of spreading Buddha's teaching,"
 
 msgctxt "9262392e00e14b2099e37c04696533df"
 msgid "བརྒྱུད་འཛིན་ ཆོས་སྟོན་ རྒྱས་པ་ དང་ ༔"
-msgstr "Lineage holders and dharma teachers will increase, and"
+msgstr "Lineage holders and dharma teachers will expand, and"
 
 msgctxt "621fca0ae4bb4d5288de08f30bd435c6"
 msgid "འགྲོ་ ཀུན་ བདེ་ ལ་ འཁོད་ ནས་ ཀྱང་ ༔"
