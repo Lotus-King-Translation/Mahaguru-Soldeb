@@ -244,7 +244,7 @@ msgstr "[They] will practice dharma day and night."
 
 msgctxt "be319629f72e49eb996b33b019519e54"
 msgid "རང་གཞན་ དོན་ གཉིས་ ལྷུན་ གྱིས་ གྲུབ་པ་␣ར་ ཤོག་␣༔"
-msgstr "The aims of self and others spontaneously be accomplished."
+msgstr "The aims of self and others will spontaneously be accomplished."
 
 msgctxt "2d49bde1ecc54377aaf588b899d5e24a"
 msgid "རང་བཞིན་ དག་པ་␣འི་ དགེ་བ་ འདི་␣ས ༔"
