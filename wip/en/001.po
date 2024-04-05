@@ -290,7 +290,7 @@ msgid ""
 "དཔལ་ལྡན་ བླ་མ་␣འི་ ཐུགས་དགོངས་ ཡོངས་སུ་ རྫོགས་པ་␣འི་ ཡོན་ཏན་ དང་ ལྡན་པ་␣ར་ "
 "གྱུར་ཅིག་␣༔"
 msgstr ""
-"[I] will possess good qualities that wholly complete intent of glorious "
+"[I] will possess good qualities of wholly complete intent of the glorious "
 "guru."
 
 msgctxt "8f57405657ca4a1ea54e6ea55577e1e2"
