@@ -252,7 +252,7 @@ msgstr "Through this virtue of pure intrinsic nature,"
 
 msgctxt "c139d817b90444558a118145470065bb"
 msgid "འཁོར་བ་ ངན་སོང་ དོང་སྤྲུག་ ནས་␣༔"
-msgstr "Samsara's bad migrations will be emptied from the depths. Therefore,"
+msgstr "Samsara's bad migrations will be stirred from the depths. Then,"
 
 msgctxt "1285b2d8215a46728a19ed6d45c6b948"
 msgid "སྲིད་ མཚོ་␣ར་ སླར་ཡང་ མི་ གནས་ ཤིང་ ༔"
