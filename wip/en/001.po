@@ -2,10 +2,11 @@
 # Translators:
 # Inga Pogosyan, 2023
 # Mikko Kotila, 2024
+# Tenzin Norgyal, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mikko Kotila, 2024\n"
+"Last-Translator: Tenzin Norgyal, 2024\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,11 +29,11 @@ msgid ""
 "ཕྱག་ དང་ བསྐོར་བ་ བྱས་␣༔  གུ་རུ་␣འི་ ཞབས་ སྤྱི་བོ་␣ར་ བླངས་ ནས་ སྨོན་ལམ་ "
 "འདི་ལྟར་ བཏབ་པ་␣༔"
 msgstr ""
-"At the time when the great master Padmasambhava was leaving Tibet for the "
-"south-west, the land of the rakshasas, on the top of the Gungthang Pass in "
-"Ladakh, Yeshe Tsogyal prostrated and circumambulated [him]. She took the "
-"guru's feet and placed them on the crown of her head, and then established "
-"an aspiration this way:"
+"At the time when the great master Padmasambhava went to the southwestern, "
+"the land of the rakshasas, on the top of the Gungthang Pass in Ladakh, Yeshe"
+" Tsogyal prostrated and circumambulated [him]. She took the guru's feet and "
+"placed them on the crown of her head and then established an aspiration this"
+" way:"
 
 msgctxt "fd27f7da562b489fb7fdb87f4874a8bc"
 msgid "མ་ ཧཱ་ གུ་རུ་␣འི་ བྱིན་རླབས་ ཀྱིས་␣༔"
