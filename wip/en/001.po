@@ -284,7 +284,7 @@ msgid ""
 "བདག་ གི་ དགེ་བ་␣འི་ རྩ་བ་ འདི་ དང་ དགེ་བ་␣འི་ རྩ་བ་ གཞན་དག་ ཀྱང་ བསྐྱེད་ "
 "ནས་␣༔"
 msgstr ""
-"Through developing this root of my virtue and the roof of virtue of others,"
+"Through developing this root of my virtue and the root of other virtues,"
 
 msgctxt "1b70f77437684c1dbe7d92b962516d75"
 msgid ""
