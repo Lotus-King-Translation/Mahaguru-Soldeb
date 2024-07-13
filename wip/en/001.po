@@ -1,12 +1,12 @@
 # 
 # Translators:
 # Inga Pogosyan, 2023
-# Mikko Kotila, 2024
 # Tenzin Norgyal, 2024
+# Mikko Kotila, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Tenzin Norgyal, 2024\n"
+"Last-Translator: Mikko Kotila, 2024\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -177,7 +177,7 @@ msgstr "All beings remain in ease. By that,"
 
 msgctxt "b913eaa679674d94a8de598d660f52fa"
 msgid "ཞིང་ཁམས་ ཐམས་ཅད་ དག་པ་␣ར་ ཤོག་␣༔"
-msgstr "All fields field will become pure."
+msgstr "All fields will become pure."
 
 msgctxt "cf5eed36697843f381010550af98bd92"
 msgid "བདག་ གི་ ལུས་ངག་ ཡིད་ གསུམ་ གྱིས་␣༔"
