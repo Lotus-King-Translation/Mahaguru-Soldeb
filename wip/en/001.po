@@ -41,7 +41,7 @@ msgstr "By the blessing of the great master,"
 
 msgctxt "7bc7cb46e49f446fb77ef6f3d129c527"
 msgid "བདག་ ཀྱང་ ཚེ་རབས་ ཐམས་ཅད་ དུ་␣༔"
-msgstr "I,་in all [my] lifetimes,"
+msgstr "I,་in all lifetimes,"
 
 msgctxt "31972f419d9b425d9604a0006d684213"
 msgid "ཞིང་ཁམས་ དག་པ་␣འི་ ཕོ་བྲང་ དུ་␣༔"
