@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "fd27f7da562b489fb7fdb87f4874a8bc"
 msgid "མ་ ཧཱ་ གུ་རུ་␣འི་ བྱིན་རླབས་ ཀྱིས་␣༔"
-msgstr "By the blessing of the Mahaguru,"
+msgstr "By the blessing of the great master,"
 
 msgctxt "7bc7cb46e49f446fb77ef6f3d129c527"
 msgid "བདག་ ཀྱང་ ཚེ་རབས་ ཐམས་ཅད་ དུ་␣༔"
